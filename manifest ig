@@ -3,10 +3,10 @@
         "version": "1.0.0",
         "name": "VegitoBlue",
         "author": "Eric",
-        "updater": "https://raw.githubusercontent.com/ahar2611/SapphireMountines/main/SapphireMountains.json"
+        "updater": "https://raw.githubusercontent.com/EricShipshin/Aliucord-theme/refs/heads/main/manifest%20ig"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/913710267198738442\/mountain-nawpic-5.jpg",
+        "url": "https:\/\/media.discordapp.net\/attachments\/1108341847627157506\/1312695169757216840\/20241123_130219.png",
         "blur_radius": 2
     },
     "fonts": {
